@@ -14,7 +14,7 @@ pipeline {
         }
         stage("Creating"){
             steps{
-                echo "Creating"
+                echo 'Creating'
             }
         }
     }
